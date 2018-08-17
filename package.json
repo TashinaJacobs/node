@@ -1,0 +1,19 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstnode.js",
+  "scripts": {
+    "test": "somin somin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TashinaJacobs/node.git"
+  },
+  "author": "TashinaJacobs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TashinaJacobs/node/issues"
+  },
+  "homepage": "https://github.com/TashinaJacobs/node#readme"
+}
